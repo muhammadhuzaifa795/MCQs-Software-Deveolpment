@@ -1,3 +1,4 @@
 # MCQs-Software-Deveolpment
 
-https://www.figma.com/proto/ryejtYfRDnKIp61vyiSTrZ/Untitled?node-id=73-74787&t=MSvBsbbx2WvjiXhX-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=145%3A724
+**Figma Project Link**
+[https://www.figma.com/design/ryejtYfRDnKIp61vyiSTrZ/Untitled?node-id=0-1&t=m0VmIjljQc6UbSDI-1](https://www.figma.com/design/ryejtYfRDnKIp61vyiSTrZ/Untitled?node-id=0-1&t=m0VmIjljQc6UbSDI-1)
